@@ -1,8 +1,6 @@
-<h1 align="center">Olá, eu sou o Hector 👋</h1>
+# 💻 Hector Guarçoni 
 
-<p align="center">
-  👨‍💻 Desenvolvedor Full Stack Ruby on Rails • ✈️ Apaixonado por performance e boas práticas • 💡 Sempre aprendendo
-</p>
+**`Desenvolvedor Full Stack`**
 
 ---
 
